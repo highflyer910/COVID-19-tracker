@@ -1,4 +1,4 @@
-# COVID-19 tracker tracks the covid-19 cases around the world
+## COVID-19 tracker provides the number of confirmed the covid-19 cases around the world
 
 Built with Tkinter and Covid libraries
 
